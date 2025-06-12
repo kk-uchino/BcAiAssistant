@@ -1,0 +1,5 @@
+.bca-nav__sub-title-label.bc-ai-assistant::before {
+  content: "";
+  background-image: url("/bc_ai_assistant/img/admin/ai_icon.svg");
+  background-size: cover;
+}
